@@ -4,7 +4,7 @@
 <template>
   <section class="m-auto max-w-screen-2xl flex px-10 py-20 text-center">
     <h1 class="fixed flex flex-col text-left text-6xl font-black transition hover:text-gray-900 hover:-drop-shadow">
-      <span>Zhi</span><span>Xuan</span><span>Zhao</span>
+      <span>Zi</span><span>Xuan</span><span>Zhao</span>
     </h1>
 
     <img src="public/819294_266816.webp" alt="" srcset="" class="w120 pr-12">
