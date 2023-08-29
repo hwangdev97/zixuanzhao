@@ -22,7 +22,7 @@ const pageItems: DockLinkItem[] = [
     icon: 'i-carbon-home',
   },
   {
-    route: '/about',
+    route: '/coursesTaught',
     icon: 'i-carbon-person',
   },
   {
@@ -58,15 +58,15 @@ const pageItems: DockLinkItem[] = [
 <style scoped>
 #dock {
   position: fixed;
-  height: 80px;
   display: flex;
   align-items: center;
   left: 50%;
   bottom: 30px;
   transform: translateX(-50%);
-  background: linear-gradient(180deg, #76767625 0%, #6c6c6c0e 100%);
+  background: linear-gradient(180deg, #dcdcdc12 0%, #cacaca0e 100%);
   border-radius: 999px;
   border: 1px solid #00000021;
+  scale: 1.15;
 }
 
 .item {

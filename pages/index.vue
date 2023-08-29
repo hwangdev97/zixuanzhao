@@ -3,8 +3,7 @@ const online = useOnline()
 </script>
 
 <template>
-  <div>
-    <Logos mb-6 />
+  <!-- <Logos mb-6 />
     <Suspense>
       <ClientOnly>
         <PageView v-if="online" />
@@ -18,6 +17,6 @@ const online = useOnline()
         </div>
       </template>
     </Suspense>
-    <InputEntry />
-  </div>
+    <InputEntry /> -->
+  <SectionHome class="h-full w-full" />
 </template>

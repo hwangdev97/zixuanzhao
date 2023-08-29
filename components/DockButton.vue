@@ -16,8 +16,7 @@ defineProps<{
 .item {
   width: 100%;
   height: 100%;
-  min-height: 60px;
-  min-width: 60px;
+
   display: flex;
   align-items: center;
   justify-content: center;
